@@ -1,0 +1,44 @@
+# Site settings
+title:          Блог Дуонг Тунг Ань
+description:    "Небольшой блог человека"
+baseurl:        "/ru"
+url:            "https://duongtunganh.space/ru"
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         Дуонг Тунг Ань
+  url:          https://duongtunganh.space
+  email:        duongtunganh2111@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+gitalk:
+    owner: tunganh03
+    repo: duongtunganh.github.io
+    clientID: ad3bd2403c591bed76a4
+    clientSecret: b55ce41df0fd11208deef869e4d7ffd5999437ab

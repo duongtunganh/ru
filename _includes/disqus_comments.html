@@ -1,0 +1,20 @@
+<!-- Start disqus -->
+<div id="disqus_thread"><h3>Bình luận và phản hồi</h3></div>
+<div id="gitalk-container"></div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+  <script>
+  const gitalk = new Gitalk({
+  clientID: 'ad3bd2403c591bed76a4',
+  clientSecret: 'b55ce41df0fd11208deef869e4d7ffd5999437ab',
+  repo: 'duongtunganh.github.io',
+  owner: 'duongtunganh',
+  admin: ['tunganh03'],
+  labels: ['Gitalk'],
+  id: location.pathname,      // Ensure uniqueness and length less than 50
+  distractionFreeMode: false  // Facebook-like distraction free mode
+})
+
+gitalk.render('gitalk-container')
+</script>
+<!-- End disqus -->
