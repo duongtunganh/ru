@@ -1,30 +1,30 @@
 ---
-title: Chiếc điện thoại đầu tiên mình sở hữu...
+title: Первый телефон, которым я владел ...
 date: 2019-05-29 00:00:00 Z
 comments: true
 layout: post
 ---
 
-<p class="lead">Mình còn nhớ Wiko Rainbow Lite là chiếc sờ-mát-phôn đầu tiên của mình mua từ hồi lớp 7.</p>
+Я помню, Wiko Rainbow Lite была моей первой сенсорной панелью, которую я купил в 7-м классе.
 
-![Wiko](/img/wiko.jpg "Điện thoại Wiko Rainbow Lite")
+! [Wiko](/ img / wiko.jpg "Wiko Rainbow Lite Phone")
 
- Wiko là thương hiệu điện thoại của Pháp mới nổi ở nước ta thời 2015, nổi tiếng vì có mức giá rẻ mà vẫn giữ được cấu hình ở mức ổn. Nó thuộc dòng sản phẩm rẻ tiền, rẻ nhất trong số những chiếc máy trong gian hàng của Thế giới di động, với giá 1.999.000đ. Tất nhiên, giờ với giá tiền đó bạn có thể mua được hàng tá những chiếc điện thoại Trung Quốc với thiết kế tai thỏ, màn hình giọt nước,... lại có cấu hình mạnh, camera tốt, vân vân.
+ Wiko - это французский бренд телефонов, появившийся в нашей стране в 2015 году, известный своей низкой ценой и сохраняющий хорошую конфигурацию. Он принадлежит к самой дешевой и дешевой линейке продуктов среди мобильных телефонов на стенде Mobile World по цене 1 999 000 донгов. Конечно, теперь за эту цену вы можете купить десятки китайских телефонов с кроличьими ушами, водяными экранами, ... мощными конфигурациями, хорошими камерами и так далее.
 
-Ở thời điểm đó mình khá là ghét iPhone nói chung và IOS nói riêng vì mình vẫn là một Android Fan và mình bị ảnh hưởng khá nhiều bởi những máy Android mà bố mẹ mình sử dụng. Mẹ mình dùng Samsung Galaxy Note 3 đến giờ và bố mình thời đó dùng Sony Xperia J. Tất nhiên, cả hai đều chạy Android và mình có thể trải nghiệm và vọc vạch nó. Thời đó mình thích thanh điều hướng của Android hơn là iPhone vì thanh điều hướng của nó rất tiện, có tới 3 nút bấm để điều hướng như Quay lại, Màn hình chính, Menu, không như iPhone chỉ có mỗi một nút Màn hình chính khá là bất tiện??. Vì vậy nên mình mới quyết định mua Wiko mới hơn là mua iPhone cũ với tầm tiền đó. Tuy nhiên đến mãi sau này khi có trên tay một chiếc iPhone, mình mới thấy một nút có lẽ là quá đủ đối với mình, thao tác vuốt sang phải để quay lại có khi còn nhanh hơn là bấm nút quay lại trên Android. Nhưng hãy để chuyện so sánh Android và IOS sang một bài viết khác sau này.
+В то время я ненавидел iPhone в целом и iOS в частности, потому что я все еще был поклонником Android и находился под влиянием устройств Android, которые использовали мои родители. Моя мама до сих пор использовала Samsung Galaxy Note 3, а мой отец в то время использовал Sony Xperia J. Конечно, оба работали под управлением Android, и я мог испытать и поцарапать его. В то время навигационная панель Android мне нравилась больше, чем iPhone, потому что ее навигационная панель была очень удобной: до 3 кнопок для навигации, таких как «Назад», «Главный экран», «Меню», в отличие от iPhone с одной кнопкой. довольно неудобно ?? Вот почему я решил купить новый Wiko, а не старый iPhone на эти деньги. Однако только позже, когда у меня был iPhone, я увидел, что кнопки, вероятно, более чем достаточно для меня, пролистывание вправо для возврата иногда быстрее, чем нажатие кнопки назад на Android. Но давайте сравним Android и IOS с другой статьей позже.
 
-Quay trở lại với chiếc điện thoại Wiko. Thời đó có lẽ mình là những người trẻ sớm tiếp cận với điện thoại vì khi mua nó ở Thế giới di động, chị nhân viên đã khen mình sướng vì đã được dùng điện thoại sớm (He he he, cũng là vì mình đã quyết tâm xin mẹ mua cho đến cùng, mặc kệ những lời cảnh báo của bố). Theo như những thông số ở trên mạng thì điện thoại này có RAM 1GB, sử dụng con chip MediaTek MT6582, Camera 10MP Sau 5MP trước, bộ nhớ trong 16GB, có thể mở rộng thẻ nhớ SD lên đến 64GB, tấm nền IPS 5 inch. Tuy nhiên, ấn tượng đầu tiên khi mình cầm trên tay sản phẩm này khi chị nhân viên khui hộp ra đó chính là trông nó to hơn mình nghĩ vì giá nó khá rẻ.
+Вернуться к телефону Wiko. В то время я был, вероятно, молодым человеком, у которого был ранний доступ к телефону, потому что, когда я купил его в Mobile World, сотрудник похвалил меня за возможность пользоваться телефоном рано (Хе-хе-хе, также потому, что я был полон решимости). пожалуйста, попросите купить его до конца, игнорируя предупреждения папы). В соответствии со спецификациями в сети, этот телефон имеет 1 ГБ оперативной памяти, используя чип MediaTek MT6582, 10-мегапиксельную камеру. После 5-мегапиксельной фронтальной, 16 ГБ встроенной памяти, можно расширить карту памяти SD до 64 ГБ, 5-дюймовую панель IPS , Однако первое впечатление, когда я держал этот продукт в руках, когда сотрудники открывали его, было то, что он выглядел больше, чем я думал, потому что цена была довольно дешевой.
 
-Nhược điểm của con này thì max nhiều. Đến giờ đã là 3 năm kể từ ngày mình mua máy mà nó vẫn hoạt động được và mình đã đem cho thằng bạn cùng lớp mình.  
-##### Và sau đây là những trải nghiệm chân thật của mình về sản phẩm này:
-* Cấu hình cùi bắp, lướt Facebook cũng bị giật lag
-* Pin chai khá nhiều do 3 năm sử dụng. Mình ước chừng chỉ dùng được 1,5 tiếng nếu lướt web bình thường
-* Màn hình bị rỗ vì điểm ảnh thấp, cộng thêm quả cảm ứng thì khỏi phải bàn cãi về độ giật và loạn của nó
-* Camera mờ tịt trong điều kiện ánh sáng yếu. Tuy nhiên, cam trước góc rộng thì lại đẹp. Mình nghĩ là do góc nó rộng nên ánh sáng thu được nhiều &rarr; đẹp hơn cam sau
-* Cộng đồng sử dụng trong nước và ngoài nước ít dẫn đến ít tài liệu tự vọc vạch cài Custom ROM Android
-* Phụ kiện như ốp lưng, cường lực cho máy này cực kì hiếm. Màn hình dễ vỡ và xước
-* Độ hoàn thiện kém, máy làm bằng nhựa, vỏ sau có thể tháo rời nên đến bây giờ bong tróc khá nhiều
-* Phần phím điều hướng cảm ứng bị hỏng nên mình bắt buộc phải root máy để bật phím điều hướng ảo trong màn hình
+Недостатком этого является макс. Прошло 3 года с тех пор, как я купил устройство, и оно все еще работает, и я отдал его своему однокласснику.
+##### И вот мой честный опыт об этом продукте:
+* Глупая конфигурация, серфинг в фейсбуке тоже тормозит
+* Аккумуляторная батарея в значительной степени из-за 3 лет использования. Я предполагаю, что это может использовать только 1,5 часа, если серфинг в Интернете нормально
+* Экран изогнутый из-за низкого пикселя, плюс сенсорный сенсор, нет необходимости спорить о его отдаче и путанице
+* Камера тусклая в условиях низкой освещенности. Однако апельсины перед широкими углами прекрасны. Я думаю, что из-за его широкого угла, свет красивее, чем задняя камера
+* Сообщество, используемое дома и за рубежом, привело к уменьшению документации по самостоятельной установке Android ROM
+* Аксессуары, такие как крышка корпуса, прочность для этой машины крайне редки. Экран хрупкий и поцарапанный
+* Плохая отделка, машинка сделана из пластика, задняя крышка съемная, так что теперь пилинга довольно много
+* Сенсорная навигационная клавиша сломана, поэтому мне нужно выполнить рутирование устройства, чтобы включить виртуальную навигационную клавишу на экране.
 
-Và đó là toàn bộ cảm nghĩ của mình về sản phẩm này. Các bạn cảm thấy thế nào? Đừng quên để lại đôi lời ở phần bình luận cuối bài viết. Cảm ơn các bạn!
+И это все, что я чувствую по поводу этого продукта. Как ты себя чувствуешь? Не забудьте оставить несколько слов в комментариях в конце статьи. Спасибо, ребята!
 
