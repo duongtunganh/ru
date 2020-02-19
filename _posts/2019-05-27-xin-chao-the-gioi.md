@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Xin chào thế giới"
-author: "Tùng Anh"
+title:  "Привет мир"
 comments: true
 ---
 
-Đây là bài viết đầu tiên trên blog của tôi!
+Это первый пост в моем блоге!
 
-Sau một hồi dày vò tìm hiểu về lập trình web đến đau cả đầu và bỏ ra cả ngày để stackoverflow-ing, cuối cùng thì mình cũng có một blog riêng chạy thành công bằng Jekyll và có hẳn một tên miền .space rất là oai. Cảm ơn Tale vì đã tạo ra giao diện tuyệt vời này.
+После трудного изучения веб-программирования у меня разболелась голова и я потратил весь день на переполнение стека, и наконец у меня был успешный блог, созданный Джекиллом, и у меня было очень величественное доменное имя .space. , Спасибо Tale за создание этого замечательного интерфейса.
 
-Blog này được tạo ra với mục đích là để cải thiện kĩ năng viết của mình và tránh việc lười biếng mọi lúc mọi nơi. Mình sẽ cố gắng viết ngẫu hứng về những thứ mình đang tìm hiểu và cuộc sống ở đây.
+Этот блог был создан с целью улучшить ваши навыки письма и избежать лени в любое время и в любом месте. Я постараюсь написать импровизированный о том, что я изучаю и жизнь здесь.
