@@ -12,8 +12,8 @@ permalink: "/about/"
 
 ## Давайте соединяться!
 
-Вы можете найти себя через Twitter: [@ tunganh03] (https://twitter.com/tunganh03), Facebook: [@ tunna.duong] (https://facebook.com/tunna.duong), Instagram: [ @tunganh_chn] (https://instagram.com/tunganh_chn)
+Вы можете найти себя через Twitter: [@tunganh03](https://twitter.com/tunganh03), Facebook: [@tunna.duong](https://facebook.com/tunna.duong), Instagram: [@tunganh_chn](https://instagram.com/tunganh_chn)
 
-Кроме того, если вы хотите узнать о своих программах, компьютерных проектах, нажмите «Follow» и дайте мне звезду на GitHub: [@ tunganh03] (https://github.com/tunganh03)
+Кроме того, если вы хотите узнать о своих программах, компьютерных проектах, нажмите «Follow» и дайте мне звезду на GitHub: [@tunganh03](https://github.com/tunganh03)
 
 Спасибо всем!
